@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/always-my-home/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Always My Home](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-my-home/) |
+| **Get License** | [Music Rights & Licensing for Always My Home](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-my-home/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `13b52b9d792c9261618a91ccd66ae9c1a3cc9a550224c237243b408f754095b3` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

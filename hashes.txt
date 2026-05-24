@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Always My Home
+
+This log tracks the cryptographic history and versioning for the song **Always My Home** (always-my-home).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T04:50:04.596584 | `v1` | `13b52b9d792c9261618a91ccd66ae9c1a3cc9a550224c237243b408f754095b3` | `40b5e3693b2744a0b81585e7767bb77e58148055d0d13320f1ef78319e81d3a0` | `2026-05-25_always-my-home-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
