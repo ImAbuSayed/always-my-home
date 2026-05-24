@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/always-my-home/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Always My Home](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-my-home/) |
+| **Get License** | [License this song: Always My Home](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-my-home/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Come closer, let the shadows fall away
+> I've been waiting for the beauty you provide
+> You're the only place I ever want to stay
+> Let me be the one who stands right by your side
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
